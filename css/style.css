@@ -1,0 +1,136 @@
+*{
+    overflow: none;
+}
+
+
+
+
+
+
+
+
+.left-login>h1{
+    position:absolute;
+    background: white;
+    font-family: 'Telex', sans-serif;
+    font-size: 32px;
+   color:#92E3A9;
+    padding: 30px;
+    margin:40px ;
+    top: 0px;
+
+}
+.image{
+    margin-top: 50px;
+    position: absolute;
+
+    
+    
+  
+
+}
+.right-login{
+    position:absolute;
+height: 550px;
+width: 450px ;
+left: 800px;
+border-radius: 62px;
+top: 55px;
+bottom: 0%;
+border: solid 5px #92E3A9;
+margin: 0%;
+padding: 0;
+
+
+
+
+
+}
+.right-login>h1{
+    position: absolute;
+    padding: 30px;
+   color:#92E3A9;
+   font-family: 'Telex', sans-serif;
+   left: 50px;
+   top: 0px;
+   font-size: 32px;
+   margin: 40px;
+}
+
+.form1{
+position: relative;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+justify-content: center;
+align-items: center;
+top: 40%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 300px;
+height: 50px;
+}
+.inside{
+width: 300px;
+height: 40px;
+background: transparent;
+border: 2px solid #2ecc71;
+border-radius: 10px;
+outline: none;
+padding: 0 5px;
+}
+
+.form1 label{
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    font-size: 18px;
+    font-family: 'Telex', sans-serif;
+    transition: top .3s;
+}
+
+.form1 input:focus~label {
+   top: -9px;
+}
+
+.form2{
+position: absolute;
+top: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.custom-shape-divider-top-1647215746 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1647215746 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 47px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1647215746 .shape-fill {
+    fill: #92E3A9;
+}
+
+
+    
